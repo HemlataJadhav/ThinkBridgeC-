@@ -1,0 +1,16 @@
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.exe
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.deps.json
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.runtimeconfig.json
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.runtimeconfig.dev.json
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.dll
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\ref\Day3.dll
+C:\ThinkSchool\ThinkBridgeC-\Day3\bin\Debug\net5.0\Day3.pdb
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.AssemblyInfoInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.AssemblyInfo.cs
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.dll
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\ref\Day3.dll
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.pdb
+C:\ThinkSchool\ThinkBridgeC-\Day3\obj\Debug\net5.0\Day3.genruntimeconfig.cache
