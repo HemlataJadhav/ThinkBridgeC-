@@ -13,3 +13,4 @@ C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\ref\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.pdb
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache
+C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.csproj.AssemblyReference.cache
