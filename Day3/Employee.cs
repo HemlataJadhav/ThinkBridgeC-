@@ -10,9 +10,10 @@ namespace Day3
     {
          static int count;//initial value is 0
         int empid;
-        double basicsalary;
+        protected double netpaid,basicsalary;
         string ename;
-        double ta, da, hra, pf;
+       protected double ta, da, hra, pf;
+
 
         public Employee()
         {
@@ -33,7 +34,7 @@ namespace Day3
             return "employee details are as follows:\n" + "Employee name:" + ename + "\n Employee ID is:" + empid + "\n Employee Salary:" + basicsalary + "\n Employee Net Salary : " + NetDeduction();
         }
 
-        public double NetDeduction()
+        public virtual double NetDeduction()
         {
             ta = basicsalary * 25 / 100;
             da = basicsalary * 20 / 100;

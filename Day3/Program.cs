@@ -54,12 +54,21 @@ namespace Day3
             //Console.WriteLine(auto_Implemented_Property);
 
             //creating object for Method_overloading class
-            Method_Overloading method_Overloading = new Method_Overloading();
-            method_Overloading.Addition(20, 10);
-            method_Overloading.Addition(20, 10, 30);
-            method_Overloading.Addition(20.34, 24.65);
-            method_Overloading.Addition(12, 34.32);
+            //Method_Overloading method_Overloading = new Method_Overloading();
+            //method_Overloading.Addition(20, 10);
+            //method_Overloading.Addition(20, 10, 30);
+            //method_Overloading.Addition(20.34, 24.65);
+            //method_Overloading.Addition(12, 34.32);
+            //Console.ReadKey();
 
+            Inheritance_Demo inheritance_Demo = new Inheritance_Demo("test4", 53426, 4576);
+            inheritance_Demo.CalculateSalary();
+            Console.WriteLine(inheritance_Demo);
+
+            Product_Manager product_Manager = new Product_Manager("abc", 5242, 243, 5476);
+            product_Manager.NetDeduction();
+            Console.WriteLine(product_Manager);
+            Console.ReadKey();
 
         }
        }

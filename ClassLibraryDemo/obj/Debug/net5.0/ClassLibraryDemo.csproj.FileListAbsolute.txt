@@ -1,0 +1,12 @@
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\bin\Debug\net5.0\ClassLibraryDemo.deps.json
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\bin\Debug\net5.0\ClassLibraryDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\bin\Debug\net5.0\ref\ClassLibraryDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\bin\Debug\net5.0\ClassLibraryDemo.pdb
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.AssemblyInfoInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.AssemblyInfo.cs
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ref\ClassLibraryDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\ClassLibraryDemo\obj\Debug\net5.0\ClassLibraryDemo.pdb

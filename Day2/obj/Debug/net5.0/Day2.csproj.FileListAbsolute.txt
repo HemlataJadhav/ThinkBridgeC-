@@ -5,6 +5,7 @@ C:\ThinkSchool\ThinkBridgeC-\Day2\bin\Debug\net5.0\Day2.runtimeconfig.dev.json
 C:\ThinkSchool\ThinkBridgeC-\Day2\bin\Debug\net5.0\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\bin\Debug\net5.0\ref\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\bin\Debug\net5.0\Day2.pdb
+C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.csproj.AssemblyReference.cache
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.AssemblyInfoInputs.cache
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.AssemblyInfo.cs
@@ -13,4 +14,3 @@ C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\ref\Day2.dll
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.pdb
 C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache
-C:\ThinkSchool\ThinkBridgeC-\Day2\obj\Debug\net5.0\Day2.csproj.AssemblyReference.cache
