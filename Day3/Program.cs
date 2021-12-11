@@ -22,11 +22,11 @@ namespace Day3
             //Console.WriteLine(student.GetData());
 
             //creating object for employee class
-            //Employee employee = new Employee();
-            // //employee.Display();
-            //Employee employee1 = new Employee( "arjun", 63452);
-            //           // employee1.Display();
-            //Console.WriteLine(employee);
+            Employee employee = new Employee();
+            //employee.Display();
+            Employee employee1 = new Employee( "arjun", 63452);
+            // employee1.Display();
+            Console.WriteLine(employee);
             //Console.WriteLine("-------------------------------");
             //Console.WriteLine(employee1);
             //Console.WriteLine("----------------------");
@@ -61,14 +61,20 @@ namespace Day3
             //method_Overloading.Addition(12, 34.32);
             //Console.ReadKey();
 
-            Inheritance_Demo inheritance_Demo = new Inheritance_Demo("test4", 53426, 4576);
-            inheritance_Demo.CalculateSalary();
-            Console.WriteLine(inheritance_Demo);
+            //Inheritance_Demo inheritance_Demo = new Inheritance_Demo("test4", 53426, 4576);
+            //inheritance_Demo.CalculateSalary();
+            //Console.WriteLine(inheritance_Demo);
 
-            Product_Manager product_Manager = new Product_Manager("abc", 5242, 243, 5476);
+            Product_Manager product_Manager = new Product_Manager("abc", 5242, 243, 5476.Department.HR);
             product_Manager.NetDeduction();
             Console.WriteLine(product_Manager);
-            Console.ReadKey();
+
+            //Attribute[] list = Attribute.GetCustomAttributes(typeof(Employee));
+            //foreach (ProjectAttribute item in list)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Console.ReadKey();
 
         }
        }

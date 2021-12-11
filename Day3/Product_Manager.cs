@@ -15,7 +15,7 @@ namespace Day3
             fa = 3542;
             ma = 3562;
         }
-        public Product_Manager(string empname, double basicsalary, double fa, double ma) : base(empname, basicsalary)
+        public Product_Manager(string empname, double basicsalary, double fa, double ma, Department dept) : base(empname, basicsalary ,dept)
         {
             this.ma = ma;
             this.fa = fa;

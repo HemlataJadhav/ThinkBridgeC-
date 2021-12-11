@@ -1,0 +1,10 @@
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\bin\Debug\FileDemo.exe.config
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\bin\Debug\FileDemo.exe
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\bin\Debug\FileDemo.pdb
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.Form1.resources
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.Properties.Resources.resources
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.csproj.GenerateResource.cache
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.exe
+C:\ThinkSchool\ThinkBridgeC-\FileDemo\obj\Debug\FileDemo.pdb

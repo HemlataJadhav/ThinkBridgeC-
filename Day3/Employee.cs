@@ -6,12 +6,20 @@ using System.Threading.Tasks;
 
 namespace Day3
 {
+
+    public enum Department
+    {
+        HR = 1, Development, Testing, BA, Sales
+    }
+    [Project(version ="1.0.0.0",Name ="hospital management system")]
+    [Project(version ="1.0.0.0",Name ="hotel management system")]
     public class Employee
     {
          static int count;//initial value is 0
         int empid;
         protected double netpaid,basicsalary;
         string ename;
+        private Department dept;
        protected double ta, da, hra, pf;
 
 
@@ -22,18 +30,19 @@ namespace Day3
             ename = "Arav";
 
         }
-        public Employee( string ename, double basicsalary)
+        public Employee( string ename, double basicsalary, Department dept)
         {
             this.empid = ++count;
             this.ename = ename;
             this.basicsalary = basicsalary;
+            this.dept = dept;
 
         }
         public override string ToString()
         {
             return "employee details are as follows:\n" + "Employee name:" + ename + "\n Employee ID is:" + empid + "\n Employee Salary:" + basicsalary + "\n Employee Net Salary : " + NetDeduction();
         }
-
+       
         public virtual double NetDeduction()
         {
             ta = basicsalary * 25 / 100;

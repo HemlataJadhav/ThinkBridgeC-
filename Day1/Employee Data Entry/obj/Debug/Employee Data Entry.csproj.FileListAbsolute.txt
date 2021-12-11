@@ -1,0 +1,10 @@
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\bin\Debug\Employee Data Entry.exe.config
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\bin\Debug\Employee Data Entry.exe
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\bin\Debug\Employee Data Entry.pdb
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee Data Entry.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee_Data_Entry.Form1.resources
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee_Data_Entry.Properties.Resources.resources
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee Data Entry.csproj.GenerateResource.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee Data Entry.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee Data Entry.exe
+C:\ThinkSchool\ThinkBridgeC-\Day1\Employee Data Entry\obj\Debug\Employee Data Entry.pdb

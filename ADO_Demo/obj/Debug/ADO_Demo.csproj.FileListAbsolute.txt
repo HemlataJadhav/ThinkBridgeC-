@@ -1,0 +1,10 @@
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\bin\Debug\ADO_Demo.exe.config
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\bin\Debug\ADO_Demo.exe
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\bin\Debug\ADO_Demo.pdb
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.Form1.resources
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.Properties.Resources.resources
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.csproj.GenerateResource.cache
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.exe
+C:\ThinkSchool\ThinkBridgeC-\ADO_Demo\obj\Debug\ADO_Demo.pdb

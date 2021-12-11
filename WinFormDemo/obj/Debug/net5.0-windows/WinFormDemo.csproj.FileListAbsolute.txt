@@ -1,0 +1,16 @@
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.exe
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.deps.json
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.runtimeconfig.json
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.runtimeconfig.dev.json
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\ref\WinFormDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\bin\Debug\net5.0-windows\WinFormDemo.pdb
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.AssemblyInfoInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.AssemblyInfo.cs
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\ref\WinFormDemo.dll
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.pdb
+C:\ThinkSchool\ThinkBridgeC-\WinFormDemo\obj\Debug\net5.0-windows\WinFormDemo.genruntimeconfig.cache

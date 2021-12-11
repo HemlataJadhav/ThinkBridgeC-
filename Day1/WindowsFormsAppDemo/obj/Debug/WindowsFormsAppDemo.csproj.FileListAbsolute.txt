@@ -1,0 +1,10 @@
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.AssemblyReference.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+C:\ThinkSchool\ThinkBridgeC-\Day1\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
